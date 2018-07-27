@@ -1,17 +1,17 @@
 /* TEAM */
 
   Name: Agnieszka Matysek
-  Site: http://github.com/womanonrails
+  Site: https://github.com/womanonrails
   Twitter: @womanonrails
   Location: Gliwice, PL
 
   Name: Alex Malaszkiewicz
-  Site: http://github.com/torrocus
+  Site: https://github.com/torrocus
   Twitter: @torrocus
   Location: Cieszyn, PL
 
   Name: Grzegorz Lisowski
-  Site: http://github.com/noplisu
+  Site: https://github.com/noplisu
   Twitter: @noplisu
   Location: Gliwice, PL
 
