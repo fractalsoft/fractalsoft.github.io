@@ -1,6 +1,6 @@
 /* TEAM */
 
-  Name: Agnieszka Matysek
+  Name: Agnieszka Malaszkiewicz
   Site: https://womanonrails.com
   Twitter: @womanonrails
   Location: Gliwice, PL
@@ -21,7 +21,7 @@
 
 /* SITE */
 
-  Last update: 2019/03/12
+  Last update: 2020/11/28
   Language: English / Polish
   Standards: HTML5, CSS3
   Source: https://github.com/fractalsoft/fractalsoft.org
